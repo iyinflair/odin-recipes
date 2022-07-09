@@ -1,3 +1,3 @@
 # odin-recipes
-A Coffee menu
+A Recipe menu
 skills demonstrated: html
