@@ -6,3 +6,5 @@ created pancake.html and added boilerplate
 added pancake.jpg
 created burger.html and added boilerplate
 added burger.jpg
+created pizza.html and added boilerplate
+add pizza.jpg
