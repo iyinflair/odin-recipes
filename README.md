@@ -9,3 +9,4 @@ added burger.jpg
 created pizza.html and added boilerplate
 added pizza.jpg
 linked with index.html
+added chef.jpeg to index.html
