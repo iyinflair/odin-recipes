@@ -5,3 +5,40 @@ body {
 .odin {
     color: darkred;
 }
+
+li:first-child {
+    color: cornsilk;
+}
+
+li:nth-child(2) {
+    color: cornsilk;
+}
+
+li:nth-child(3) {
+    color: cornsilk;
+}
+
+#pancake-link:link {
+    color: coral;
+}
+
+#pancake-link:visited {
+    color: cornsilk;
+}
+
+#burger-link:link {
+    color: coral;
+}
+
+#burger-link:visited {
+    color: cornsilk;
+}
+
+#pizza-link:link {
+    color: coral;
+}
+
+#pizza-link:visited {
+    color: cornsilk;
+}
+

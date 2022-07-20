@@ -1,0 +1,31 @@
+body {
+    background-color: yellow;
+}
+
+.burger {
+    color: black;
+}
+
+h3:hover {
+    color: black;
+}
+
+li:first-child {
+    color: brown;
+}
+
+li:nth-child(2) {
+    color: brown;
+}
+
+li:nth-child(3) {
+    color: brown;
+}
+
+li:nth-child(4) {
+    color: brown;
+}
+
+li:nth-child(5) {
+    color: brown;
+}
