@@ -6,6 +6,10 @@ body {
     color: darkred;
 }
 
+#para-graph {
+    color: rgb(  102, 40, 30);
+}
+
 li:first-child {
     color: cornsilk;
 }
